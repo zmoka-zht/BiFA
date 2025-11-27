@@ -237,6 +237,29 @@ If you use the code or performance benchmarks of this project in your research, 
   pages={1-17},
   keywords={Feature extraction;Task analysis;Remote sensing;Transformers;Interference;Decoding;Optical flow;Bitemporal interaction (BI);change detection (CD);feature alignment;flow field;high-resolution optical remote sensing image;implicit neural representation},
   doi={10.1109/TGRS.2024.3376673}}
+
+@ARTICLE{11268372,
+  author={Zhang, Haotian and Guo, Han and Chen, Keyan and Chen, Hao and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={FoBa: A Foreground-Background co-Guided Method and New Benchmark for Remote Sensing Semantic Change Detection}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Semantics;Remote sensing;Transformers;Feature extraction;Annotations;Roads;Multitasking;Spatial resolution;Landsat;Land surface;Semantic change detection (SCD);foreground-background co-guided;bi-temporal interaction;mamba;new benchmark},
+  doi={10.1109/TGRS.2025.3636947}}
+
+@ARTICLE{10902569,
+  author={Zhang, Haotian and Chen, Keyan and Liu, Chenyang and Chen, Hao and Zou, Zhengxia and Shi, Zhenwei},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={CDMamba: Incorporating Local Clues Into Mamba for Remote Sensing Image Binary Change Detection}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-16},
+  keywords={Feature extraction;Transformers;Remote sensing;Convolutional neural networks;Visualization;Artificial intelligence;Spatiotemporal phenomena;Computational modeling;Attention mechanisms;Computer vision;Bi-temporal interaction;change detection (CD);high-resolution optical remote sensing image;Mamba;state-space model},
+  doi={10.1109/TGRS.2025.3545012}}
+
 ```
 
 ## License
