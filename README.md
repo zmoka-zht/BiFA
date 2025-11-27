@@ -269,3 +269,5 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 ## Contact Us
 
 If you have any other questions❓, please contact us in time 👬
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zmoka-zht/BiFA&type=Date)](https://star-history.com/#zmoka-zht/BiFA&Date)
