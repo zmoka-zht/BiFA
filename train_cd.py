@@ -293,7 +293,7 @@ if __name__ == '__main__':
 
                     metric.clear()
 
-            get_scheduler(optimizer=optimer, args=opt['train']).step()
+            # get_scheduler(optimizer=optimer, args=opt['train']).step()
         logger.info('End of training.')
 
     else:
